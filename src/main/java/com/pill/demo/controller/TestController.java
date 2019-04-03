@@ -15,7 +15,7 @@ import java.util.concurrent.Executors;
  * @author guowei
  * @version 1.0
  * @description 测试redis集群
- * @date 2019/4/2 14:08
+ * @date 2019/4/2 14:09
  */
 @RestController
 public class TestController {
